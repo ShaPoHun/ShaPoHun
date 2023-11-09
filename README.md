@@ -1,5 +1,8 @@
-### Hi! Nice to see you. 👋
-
+## Hi! Nice to see you. 👋
+- Software Developer
+- Golang / C / C++
+- Docker / Kubernetes / CICD
+- SDN
 <!--
 **ShaPoHun/ShaPoHun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+## Summary ⚡
 <img src="https://streak-stats.demolab.com/?user=ShaPoHun&theme=tokyonight&hide_border=true" />
